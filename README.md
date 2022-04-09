@@ -7,6 +7,8 @@
 I am currently working on a school project.
 I am making an sns website.
 
+![Sabirs's github stats](https://github-readme-stats.vercel.app/api?username=sabi1125)
+
 
 #### 🌱 I’m currently learning
 
