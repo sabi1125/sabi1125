@@ -11,7 +11,7 @@ I am currently working on designing a Microservice architecture based web applic
 
 #### 🌱 I’m currently learning
 
-Vue.js
+System Design
 
 💬 Ask me about ...
 
@@ -19,7 +19,7 @@ Ask me anything,anytime....
 
 📫 How to reach me: 
 
-Well you can reach me through my email(if windows dosen't sort it as junk mail):[sabir_barahi4@hotmail.com](sabir_barahi4@hotmail.com)
+Well you can reach me through my email:[sabir_barahi4@hotmail.com](sabir_barahi4@hotmail.com)
 
 ⚡ Fun fact: 
 
