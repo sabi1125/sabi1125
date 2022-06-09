@@ -4,8 +4,7 @@
 
  🔭 I’m currently working on 
 
-I am currently working on a school project.
-I am making an sns website.
+I am currently working on designing a Microservice architecture based web application.
 
 ![Sabirs's github stats](https://github-readme-stats.vercel.app/api?username=sabi1125)
 
